@@ -24,6 +24,7 @@ Una plantilla inicial para construir aplicaciones Laravel con Livewire.
     npm install
    
 4. Copiar el archivo de entorno y configurar las variables:
+Crear una base de datos llamada store y ponerla en las variables de entorno .env
    ```bash
    cp .env.example .env
    ```
